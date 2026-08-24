@@ -1,0 +1,15 @@
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\bin\Debug\net10.0\PitCrew.exe
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\bin\Debug\net10.0\PitCrew.deps.json
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\bin\Debug\net10.0\PitCrew.runtimeconfig.json
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\bin\Debug\net10.0\PitCrew.dll
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\bin\Debug\net10.0\PitCrew.pdb
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\PitCrew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\PitCrew.AssemblyInfoInputs.cache
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\PitCrew.AssemblyInfo.cs
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\PitCrew.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\PitCrew.sourcelink.json
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\PitCrew.dll
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\refint\PitCrew.dll
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\PitCrew.pdb
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\PitCrew.genruntimeconfig.cache
+C:\Users\Gamer\source\repos\PitCrew\PitCrew\obj\Debug\net10.0\ref\PitCrew.dll
