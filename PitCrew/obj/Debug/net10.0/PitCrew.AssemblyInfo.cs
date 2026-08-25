@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PitCrew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e334e7fa0a211245c13c91f28f0a56edb34708db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee4afe9cbbb8ceab1219a595f60a4aec0701ab2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PitCrew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PitCrew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
